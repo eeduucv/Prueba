@@ -3,3 +3,4 @@ Indicad vuestros nombres:
 - Baltasar
 - Fran
 - Juan
+- Jose Amador Cano
